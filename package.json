@@ -1,0 +1,23 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "Deploy with heroku 30/05/18",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Os24/Heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Os24/Heroku/issues"
+  },
+  "homepage": "https://github.com/Os24/Heroku#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "server": "^1.0.18"
+  }
+}
